@@ -87,7 +87,7 @@ notification:
   bark_batch_size: 4000 # Bark消息分批大小（字节）
   slack_batch_size: 4000 # Slack消息分批大小（字节）
   batch_send_interval: 3 # 批次发送间隔（秒）
-  feishu_message_separator: "━━━━━━━━━━━━━━━━━━━" # feishu 消息分割线
+  feishu_message_separator: "━━━━━━━━━━━━━━━━━" # feishu 消息分割线
   max_accounts_per_channel: 3 # 每个渠道最大账号数量，建议不超过 3
 
   # 🕐 推送时间窗口控制（可选功能）
