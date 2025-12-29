@@ -186,8 +186,6 @@ platforms:
     name: "牛客"
   - id: "solidot"
     name: "solidot"
-  - id: "zaobao"
-    name: "早报"
   - id: "thepaper"
     name: "澎湃新闻"
   - id: "bilibili-hot-search"

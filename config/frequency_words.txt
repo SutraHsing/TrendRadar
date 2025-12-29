@@ -97,10 +97,13 @@ ai
 !gai
 人工智能
 llm
+大模型
 
 Cursor
 Agent
 RAG
+langchain
+langgraph
 
 Golang
 Java
@@ -143,3 +146,7 @@ Kling
 特朗普
 川普
 Trump
+
+人口
+失业
+就业
